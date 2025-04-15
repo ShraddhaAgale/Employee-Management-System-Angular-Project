@@ -1,0 +1,33 @@
+.dashboardMain {
+display:flex;
+justify-content: center;
+width: 68%;
+margin-left: 195px;
+height: 525px;
+align-items: center;
+}
+
+.addButton {
+    width: 13%;
+    height: 30px;
+    border-radius: 13px;
+    margin-top: 5px;
+    background-color: #cbe6df;
+   float: right;
+}
+
+.searchMain {
+    float:right
+}
+
+.employeeSearch {
+    display: flex;
+}
+
+.searchButton {
+    margin-right: 7px;
+}
+
+.submitSearchButton:hover {
+    background-color: #6bb9a4
+}

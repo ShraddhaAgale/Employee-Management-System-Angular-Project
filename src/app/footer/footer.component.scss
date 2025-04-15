@@ -1,0 +1,16 @@
+.footerMain {
+ height: 50px;
+ background-color: black;
+ bottom: 0;
+ position: absolute;
+ width: 100%;
+}
+
+.footer {
+    color: white;
+    font-size: 14px;
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
