@@ -1,19 +1,1 @@
 /* You can add global styles to this file, and also import other style files */
-
-.container {
-    @media only screen and (max-width: 600px) {
-        body {
-          background-color: lightblue;
-        }
-      }
-}
-
-.sidebar {
-  height: 100vh;
-  position: sticky;
-  top: 0;
-}
-
-.button, input, textarea {
-  width: 100%;
-}
